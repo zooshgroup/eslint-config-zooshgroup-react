@@ -30,7 +30,6 @@ module.exports = {
     "jsx-a11y/mouse-events-have-key-events": 2,
     "jsx-a11y/role-has-required-aria-props": 2,
     "jsx-a11y/role-supports-aria-props": 2,
-    "react/forbid-prop-types": 0,
     "react/jsx-first-prop-new-line": [
       2,
       "multiline"

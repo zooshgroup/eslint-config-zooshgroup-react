@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "eslint-config-airbnb": "16.1.0",
-    "eslint-config-zooshgroup": "1.1.1",
+    "eslint-config-zooshgroup": "1.2.0",
     "eslint-plugin-jsx-a11y": "6.0.3",
     "eslint-plugin-react": "7.5.1",
     "eslint-plugin-redux-saga": "0.6.0"
