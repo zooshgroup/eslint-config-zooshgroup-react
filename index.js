@@ -10,7 +10,6 @@ module.exports = {
     "es6": true
   },
   "plugins": [
-    "redux-saga",
     "react",
     "jsx-a11y"
   ],
@@ -38,7 +37,5 @@ module.exports = {
     "react/jsx-no-target-blank": 0,
     "react/require-extension": 0,
     "react/self-closing-comp": 0,
-    "redux-saga/no-yield-in-race": 2,
-    "redux-saga/yield-effects": 2
   }
 };

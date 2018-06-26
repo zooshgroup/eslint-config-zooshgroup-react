@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-zooshgroup-react",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "author": {
     "name": "Barnabas Gema",
     "email": "barnabas.gema@zooshgroup.com"
@@ -22,7 +22,6 @@
     "eslint-config-airbnb": "16.1.0",
     "eslint-config-zooshgroup": "1.2.1",
     "eslint-plugin-jsx-a11y": "6.0.3",
-    "eslint-plugin-react": "7.5.1",
-    "eslint-plugin-redux-saga": "0.6.0"
+    "eslint-plugin-react": "7.5.1"
   }
 }
